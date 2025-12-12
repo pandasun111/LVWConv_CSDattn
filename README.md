@@ -1,8 +1,9 @@
 # lvwConv_csdattn
-code of An Unsupervised Point Cloud Segmentation Model Guided by Controllable 3D Priors Convolution
 ![](./fig/Framework_6.jpg)
 
-##Setup
+**code of An Unsupervised Point Cloud Segmentation Model Guided by Controllable 3D Priors Convolution**
+
+## Setup
 Setting up for this project involves installing dependencies. 
 
 To install all the dependencies, please run the following:
