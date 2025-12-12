@@ -26,7 +26,7 @@ python data_prepare/data_prepare_S3DIS.py --data_path ${your_S3DIS}
 python data_prepare/initialSP_prepare_S3DIS.py
 ```
 
-###Training:
+### Training:
 ```shell script
 CUDA_VISIBLE_DEVICES=0, python train_S3DIS.py
 ```
