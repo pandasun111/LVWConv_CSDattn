@@ -6,8 +6,6 @@ import numpy as np
 import random
 import re
 from datasets.S3DIS import S3DIStrain, cfl_collate_fn
-
-# from datasets.S3DIS_rewrite_colortest import S3DIStrain, cfl_collate_fn
 from tensorboardX import SummaryWriter
 import torch
 import MinkowskiEngine as ME
